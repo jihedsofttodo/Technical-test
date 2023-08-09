@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "e76a3756-8515-46ab-a432-7f2c629a8662",
+		"name": "Tech Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "25663638"
+	},
+	"item": [
+		{
+			"name": "Get Blogs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8090/blogs.php"
+			},
+			"response": []
+		}
+	]
+}
